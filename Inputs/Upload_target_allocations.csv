@@ -1,0 +1,18 @@
+Before you upload your allocations into the tool, please make sure they sum to 100;;
+;;
+;SUM-CHECK;100
+;;
+Category;Subcategory;Target_Allocation
+Stocks;Diversified, world-wide;55,5
+Stocks;Value;5
+Stocks;3a;5
+Stocks;Regions of interest (europe, poland);5
+Stocks;Real estate ;5
+Bonds;Bonds;5
+Gold;Physical;5
+Gold;Contract;1,75
+Cryptocurrency;Cryptocurrency;4,5
+Cash;Random accounts;1
+Cash;Electronic;4,25
+Cash;Physical;1
+Cash;Debts, deposits etc.;2
