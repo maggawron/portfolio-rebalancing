@@ -20,7 +20,7 @@ Cash;Electronic;;IKBR;PLN;24;1;False;True
 Stocks;3a;;Pillar_3a;CHF;1;23243;False;False
 Cash;Electronic;;Bank 7 prepaid;CHF;24;1;False;True
 Cash;Electronic;;Splitwise;CHF;24;1;False;True
-Gold;Gold;GC=F;Gold physical;USD;42;;True;False
+Gold;Gold;GC=F;Gold physical;USD;4;;True;False
 Cryptocurrency;Cryptocurrency;BTC-USD;Revolut  crypto;USD;1;;True;True
 Cash;Electronic;;Revolut cash chf;CHF;242;1;False;True
 Cash;Electronic;;Revolut cash pln;PLN;24;1;False;True
