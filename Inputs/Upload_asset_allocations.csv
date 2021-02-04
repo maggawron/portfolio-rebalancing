@@ -3,7 +3,7 @@ Cash;Electronic;;Bank 5 PLN;PLN;1000;1;False;True
 Cash;Electronic;;Bank 6 USD;USD;1000;1;False;True
 Cash;Electronic;;Bank 4 PLN;PLN;49498;1;False;True
 Cash;Electronic;;Bank 1;PLN;282;1;False;True
-Stocks;Diversified, world-wide;;Broker 1;PLN;1;9834;False;False
+Stocks;Value;;Broker 1;PLN;1;9834;False;False
 Stocks;Diversified, world-wide;;Broker 2;PLN;1;5502;False;False
 Cash;Debts, deposits etc.;;Debt 1;PLN;1;43587;False;False
 Cash;Physical;;Broker 8;PLN;1820;1;False;True
@@ -13,7 +13,7 @@ Cash;Physical;;Cash USD 2;USD;727;1;False;True
 Cash;Physical;;Cash CHF;CHF;343;1;False;True
 Cash;Electronic;;Deposit CHF;CHF;2343;1;False;True
 Cash;Electronic;;Bank 3 PLN;PLN;12700;1;False;True
-Cash;Electronic;;Bank 4 USD;USD;43;1;False;True
+Cash;Random accounts;;Bank 4 USD;USD;43;1;False;True
 Cash;Electronic;;Vested USD;USD;42;1;False;True
 Cash;Electronic;;Account Bank 6;USD;43;1;False;True
 Cash;Electronic;;IKBR;PLN;24;1;False;True
