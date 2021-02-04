@@ -5,8 +5,8 @@ Before you upload your allocations into the tool, please make sure they sum to 1
 Category;Subcategory;Target_Allocation;Tollerance_pp
 Stocks;Diversified, world-wide;55,5;0,5
 Stocks;Value;5;1
-Stocks;3a;5;4
-Stocks;Regions of interest (europe, poland);5;6
+Stocks;3a;5;1
+Stocks;Regions of interest (europe, poland);5;2
 Stocks;Real estate ;5;3
 Bonds;Bonds;5;1
 Gold;Gold;6,75;1,6
