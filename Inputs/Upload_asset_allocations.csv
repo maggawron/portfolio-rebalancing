@@ -3,7 +3,7 @@ Cash;Electronic;;Bank 5 PLN;PLN;1000;1;False;True;
 Cash;Electronic;;Bank 6 USD;USD;1000;1;False;True;
 Cash;Electronic;;Bank 4 PLN;PLN;49498;1;False;True;
 Cash;Electronic;;Bank 1;PLN;282;1;False;True;
-Stocks;Value;;Broker 1;PLN;1;9834;False;False;40
+Stocks;Value;;Broker 1;PLN;1;9834;False;True;40
 Stocks;Diversified, world-wide;;Broker 2;PLN;1;5502;False;False;
 Cash;Debts, deposits etc.;;Debt 1;PLN;1;43587;False;False;
 Stocks;Value;;Broker 8;PLN;1820;1;False;True;40
