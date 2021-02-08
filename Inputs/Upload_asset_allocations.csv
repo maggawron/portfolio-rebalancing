@@ -1,26 +1,26 @@
-Category;Subcategory;Ticker;Name;Currency;Quantity;Unit_Value;Divisible;Rebalancable;Predefined_share;Market_cap
-Cash;Electronic;;Bank 5 PLN;PLN;1000;1;False;True;;
-Cash;Electronic;;Bank 6 USD;USD;1000;1;False;True;;
-Cash;Electronic;;Bank 4 PLN;PLN;49498;1;False;True;;
-Cash;Electronic;;Bank 1;PLN;282;1;False;True;;
-Stocks;Value;;Broker 1;PLN;1;9834;False;True;40;
-Stocks;Diversified, world-wide;;Broker 2;PLN;1;5502;False;False;;
-Cash;Debts, deposits etc.;;Debt 1;PLN;1;43587;False;False;;
-Stocks;Value;;Broker 8;PLN;1820;1;False;True;40;
-Stocks;Value;;Cash PLN;PLN;2873;1;False;True;20;
-Cash;Physical;;Cash USD 1;USD;727;1;False;True;;
-Cash;Physical;;Cash USD 2;USD;727;1;False;True;;
-Cash;Physical;;Cash CHF;CHF;343;1;False;True;;
-Cash;Electronic;;Deposit CHF;CHF;2343;1;False;True;;
-Cash;Electronic;;Bank 3 PLN;PLN;12700;1;False;True;;
-Cash;Random accounts;;Bank 4 USD;USD;43;1;False;True;;
-Cash;Electronic;;Vested USD;USD;42;1;False;True;;
-Cash;Electronic;;Account Bank 6;USD;43;1;False;True;;
-Cash;Electronic;;IKBR;PLN;24;1;False;True;;
-Stocks;3a;;Pillar_3a;CHF;1;23243;False;False;;
-Cash;Electronic;;Bank 7 prepaid;CHF;24;1;False;True;;
-Cash;Electronic;;Splitwise;CHF;24;1;False;True;;
-Gold;Gold;GC=F;Gold physical;USD;4;;True;False;;
-Cryptocurrency;Cryptocurrency;BTC-USD;Revolut  crypto;USD;1;;True;True;;
-Cash;Electronic;;Revolut cash chf;CHF;242;1;False;True;;
-Cash;Electronic;;Revolut cash pln;PLN;24;1;False;True;;
+Category;Subcategory;Ticker;Name;Currency;Quantity;Unit_Value;Divisible;Rebalancable;Predefined_share
+Cash;Electronic;;Bank 5 PLN;PLN;1000;1;False;True;
+Cash;Electronic;;Bank 6 USD;USD;1000;1;False;True;
+Cash;Electronic;;Bank 4 PLN;PLN;49498;1;False;True;
+Cash;Electronic;;Bank 1;PLN;282;1;False;True;
+Stocks;Value;;Broker 1;PLN;1;9834;False;True;40
+Stocks;Diversified, world-wide;;Broker 2;PLN;1;5502;False;False;
+Cash;Debts, deposits etc.;;Debt 1;PLN;1;43587;False;False;
+Stocks;Value;;Broker 8;PLN;1820;1;False;True;40
+Stocks;Value;;Cash PLN;PLN;2873;1;False;True;20
+Cash;Physical;;Cash USD 1;USD;727;1;False;True;
+Cash;Physical;;Cash USD 2;USD;727;1;False;True;
+Cash;Physical;;Cash CHF;CHF;343;1;False;True;
+Cash;Electronic;;Deposit CHF;CHF;2343;1;False;True;
+Cash;Electronic;;Bank 3 PLN;PLN;12700;1;False;True;
+Cash;Random accounts;;Bank 4 USD;USD;43;1;False;True;
+Cash;Electronic;;Vested USD;USD;42;1;False;True;
+Cash;Electronic;;Account Bank 6;USD;43;1;False;True;
+Cash;Electronic;;IKBR;PLN;24;1;False;True;
+Stocks;3a;;Pillar_3a;CHF;1;23243;False;False;
+Cash;Electronic;;Bank 7 prepaid;CHF;24;1;False;True;
+Cash;Electronic;;Splitwise;CHF;24;1;False;True;
+Gold;Gold;GC=F;Gold physical;USD;4;;True;False;
+Cryptocurrency;Cryptocurrency;BTC-USD;Revolut  crypto;USD;1;;True;True;
+Cash;Electronic;;Revolut cash chf;CHF;242;1;False;True;
+Cash;Electronic;;Revolut cash pln;PLN;24;1;False;True;
