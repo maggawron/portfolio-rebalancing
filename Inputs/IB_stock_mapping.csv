@@ -1,29 +1,29 @@
-Category;Subcategory;Ticker;YF_Ticker;Divisible;Rebalancable
-Bonds;Bonds;CHSPIz;CHSPI.SW;False;True
-Stocks;Regions of interest (europe, poland);3CP;3CP.F;False;True
-Stocks;Diversified, world-wide;CDR;CDRN.MX;False;True
-Stocks;Diversified, world-wide;AAPL;;False;True
-Stocks;Diversified, world-wide;AMZN;;False;True
-Stocks;Diversified, world-wide;BABA;;False;True
-Stocks;Real estate ;BYND;;False;True
-Stocks;Real estate ;CCL;;False;True
-Stocks;Diversified, world-wide;FB;;False;True
-Stocks;Diversified, world-wide;ILMN;;False;True
-Stocks;Diversified, world-wide;LMND;;False;True
-Stocks;Regions of interest (europe, poland);NCLH;;False;True
-Stocks;Regions of interest (europe, poland);NVDA;;False;True
-Stocks;Regions of interest (europe, poland);QQQ;;False;True
-Stocks;Regions of interest (europe, poland);TQQQ;;False;True
-Stocks;Regions of interest (europe, poland);TSLA;;False;True
-Stocks;Regions of interest (europe, poland);UAL;;False;True
-Stocks;Regions of interest (europe, poland);VGT;;False;True
-Stocks;Regions of interest (europe, poland);VOO;;False;True
-Gold;Gold;AUUSI;AUUSI.SW;False;True
-Stocks;Regions of interest (europe, poland);SRFCZz;SRFCHA.SW;False;True
-Stocks;Regions of interest (europe, poland);BNDW;;False;True
-Stocks;Regions of interest (europe, poland);EPOL;;False;True
-Stocks;Real estate ;IAU;;False;True
-Stocks;Real estate ;REZ;;False;True
-Stocks;Real estate ;VNQI;;False;True
-Stocks;Diversified, world-wide;VT;;False;True
-Stocks;Diversified, world-wide;VTV;;False;True
+Category;Subcategory;Ticker;YF_Ticker;Divisible;Rebalancable;Predefined_share
+Bonds;Bonds;CHSPIz;CHSPI.SW;False;True;
+Stocks;Regions of interest (europe, poland);3CP;3CP.F;False;True;
+Stocks;Diversified, world-wide;CDR;CDRN.MX;False;True;
+Stocks;Diversified, world-wide;AAPL;;False;True;
+Stocks;Diversified, world-wide;AMZN;;False;True;
+Stocks;Diversified, world-wide;BABA;;False;True;
+Stocks;Real estate ;BYND;;False;True;
+Stocks;Real estate ;CCL;;False;True;
+Stocks;Diversified, world-wide;FB;;False;True;
+Stocks;Diversified, world-wide;ILMN;;False;True;
+Stocks;Diversified, world-wide;LMND;;False;True;
+Stocks;Regions of interest (europe, poland);NCLH;;False;True;
+Stocks;Regions of interest (europe, poland);NVDA;;False;True;
+Stocks;Regions of interest (europe, poland);QQQ;;False;True;
+Stocks;Regions of interest (europe, poland);TQQQ;;False;True;
+Stocks;Regions of interest (europe, poland);TSLA;;False;True;
+Stocks;Regions of interest (europe, poland);UAL;;False;True;
+Stocks;Regions of interest (europe, poland);VGT;;False;True;
+Stocks;Regions of interest (europe, poland);VOO;;False;True;
+Gold;Gold;AUUSI;AUUSI.SW;False;True;
+Stocks;Regions of interest (europe, poland);SRFCZz;SRFCHA.SW;False;True;30
+Stocks;Regions of interest (europe, poland);BNDW;;False;True;40
+Stocks;Regions of interest (europe, poland);EPOL;;False;True;30
+Stocks;Real estate ;IAU;;False;True;
+Stocks;Real estate ;REZ;;False;True;
+Stocks;Real estate ;VNQI;;False;True;
+Stocks;Diversified, world-wide;VT;;False;True;
+Stocks;Diversified, world-wide;VTV;;False;True;
