@@ -1,0 +1,6 @@
+numpy
+yfinance
+yahoofinancials
+pandas
+matplotlib
+#IPython.display
